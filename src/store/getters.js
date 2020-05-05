@@ -1,0 +1,10 @@
+export const album = state => state.album
+export const imgIndex = state => state.imgIndex
+export const size = state => state.size
+export const stateIndex = state => state.stateIndex
+export const blogger = state => state.blogger
+export const detailBlog = state => state.detailBlog
+export const media = state => state.media
+export const searchHistory = (state) => state.searchHistory
+export const follow = (state) => state.follow
+export const bloggerDetail = state => state.bloggerDetail
